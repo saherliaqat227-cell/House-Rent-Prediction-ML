@@ -157,8 +157,11 @@ House-Rent-Prediction-ML/
 └── README.md
 ```
 
-## 👩‍💻 Author
+👩‍💻 Author
 
-**Saher Liaqat**
+Saher Liaqat
 
-GitHub: **saherliaqat227-cell**
+BS Information Technology Student
+Minhaj University Lahore
+
+
